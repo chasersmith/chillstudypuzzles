@@ -11,5 +11,4 @@ https://gamejolt.com/games/chillstudypuzzles/409813
 Made with https://impactjs.com/
 
 This is a simple 3x3 sliding puzzle game made with HTML5 and ImpactJS
-This project was made for purposes of learning ImpactJS and is no way efficient code
-and can be improved in many ways.
+This project was made for purposes of learning ImpactJS.
