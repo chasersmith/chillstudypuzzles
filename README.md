@@ -4,11 +4,8 @@ Chill Study Puzzles Source Code
 
 Game version - 1.0.1
 
-https://chasersmith.com
+Playable build available on [GameJolt](https://gamejolt.com/games/chillstudypuzzles/409813)
 
-https://gamejolt.com/games/chillstudypuzzles/409813
+A simple 3x3 sliding puzzle game made with HTML5 JavaScript game library, [ImpactJS](https://impactjs.com/)
 
-Made with https://impactjs.com/
-
-This is a simple 3x3 sliding puzzle game made with HTML5 and ImpactJS
-This project was made for purposes of learning ImpactJS.
+Source can be ran on simple web server.
